@@ -8,4 +8,8 @@ public class Hello{
         System.out.println("I AM JAsmin"+name);
 
     }
+      public static void squre(int a)
+    {
+        return a*a;
+    }
 }
