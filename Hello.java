@@ -3,9 +3,9 @@ public class Hello{
         System.out.println("I AM JAsmin");
         display("GIT")
     }
-    public static void display(String name)
+    public static void display()
     {
-        System.out.println("I AM Faria"+name);
+        System.out.println("I AM Faria");
 
     }
 }
